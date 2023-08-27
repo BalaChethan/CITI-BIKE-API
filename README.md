@@ -1,5 +1,5 @@
 # CITI-BIKE-API
-###Real-time Data Extraction and Transformation from Citi Bike API	
+Real-time Data Extraction and Transformation from Citi Bike API	
 •	Conceptualized and developed a dynamic ELT (Extract, Load, Transform) pipeline in Python, utilizing Requests and Pandas libraries, to extract, transform, and load real-time bike-sharing data from Citi Bike’s API in GBFS format into a PostgreSQL database.
 •	Demonstrated mastery in data manipulation and transformation by utilizing the Requests library to efficiently retrieve data from the REST API and then converting and structuring it into Pandas dataframes.
 •	Applied advanced data transformation techniques to parse and structure station information feed from the Citi Bike API, which provided data about bike-sharing stations in New York City.
